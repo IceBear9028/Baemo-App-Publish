@@ -1,0 +1,10 @@
+<svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="award_star">
+<mask id="mask0_3214_26807" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="18" height="18">
+<rect id="Bounding box" width="18" height="18" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_3214_26807)">
+<path id="award_star_2" d="M6.80664 12.1875L9.00039 10.8562L11.1941 12.1875L10.6129 9.69371L12.5629 8.00621L9.99414 7.79996L9.00039 5.43746L8.00664 7.79996L5.43789 8.00621L7.38789 9.69371L6.80664 12.1875ZM9.00039 17.475L6.48789 15H3.00039V11.5125L0.525391 8.99996L3.00039 6.48746V2.99996H6.48789L9.00039 0.524963L11.5129 2.99996H15.0004V6.48746L17.4754 8.99996L15.0004 11.5125V15H11.5129L9.00039 17.475Z" fill="#EAB308"/>
+</g>
+</g>
+</svg>

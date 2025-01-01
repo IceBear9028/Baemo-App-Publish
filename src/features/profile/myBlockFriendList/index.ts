@@ -1,0 +1,1 @@
+export {MyBlockFriendList} from './ui/MyBlockFriendList';

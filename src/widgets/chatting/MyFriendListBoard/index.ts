@@ -1,0 +1,1 @@
+export {MyFriendListBoard} from './ui/MyFriendListBoard';

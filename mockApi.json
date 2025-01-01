@@ -1,0 +1,3211 @@
+{
+  "exercise_head": {
+    "region" : "서울시 노원구",
+    "exerciseList" : [
+      {
+        "exerciseId": 1,
+        "region": "서울시 노원구",
+        "exerciseStatus": 0,
+        "startDate": "2024.06.01 10:00:00",
+        "location": "선우 체육관",
+        "headCount": 23,
+        "name": "번개 운동",
+        "exerciseType": {
+          "type": 1,
+          "groupsId": 5
+        },
+        "exerciseThumbnail": "",
+        "regularDay": 1,
+        "gatheringInfo": {
+          "type": 1,
+          "groupsId": 5
+        }
+      },
+      {
+        "exerciseId": 2,
+        "region": "서울시 강북구",
+        "exerciseStatus": 1,
+        "startDate": "2024.06.02 14:00:00",
+        "location": "미성 체육관",
+        "headCount": 20,
+        "name": "주말 요가",
+        "exerciseType": {
+          "type": 0,
+          "groupsId": null
+        },
+        "exerciseThumbnail": "",
+        "regularDay": 7,
+        "gatheringInfo": {
+          "type": 0,
+          "groupsId": null
+        }
+      },
+      {
+        "exerciseId": 3,
+        "region": "서울시 노원구",
+        "exerciseStatus": 2,
+        "startDate": "2024.06.03 06:00:00",
+        "location": "김밥천국 체육관",
+        "headCount": 30,
+        "name": "아침 달리기",
+        "exerciseType": {
+          "type": 1,
+          "groupsId": 10
+        },
+        "exerciseThumbnail": "",
+        "regularDay": 2,
+        "gatheringInfo": {
+          "type": 1,
+          "groupsId": 10
+        }
+      }
+    ]
+  },
+  "exercise_all": {
+    "region" : "서울시 노원구",
+    "exerciseList" : [
+      {
+        "exerciseId": 1,
+        "region": "서울시 노원구",
+        "exerciseStatus": 0,
+        "startDate": "2024.06.01 10:00:00",
+        "location": "선우 체육관",
+        "headCount": 23,
+        "name": "번개 운동",
+        "exerciseType": {
+          "type": 1,
+          "groupsId": 5
+        },
+        "exerciseThumbnail": "",
+        "regularDay": 1,
+        "gatheringInfo": {
+          "type": 1,
+          "groupsId": 5
+        }
+      },
+      {
+        "exerciseId": 2,
+        "region": "서울시 강북구",
+        "exerciseStatus": 1,
+        "startDate": "2024.06.02 14:00:00",
+        "location": "미성 체육관",
+        "headCount": 20,
+        "name": "주말 요가",
+        "exerciseType": {
+          "type": 0,
+          "groupsId": null
+        },
+        "exerciseThumbnail": "",
+        "regularDay": 7,
+        "gatheringInfo": {
+          "type": 0,
+          "groupsId": null
+        }
+      },
+      {
+        "exerciseId": 3,
+        "region": "서울시 노원구",
+        "exerciseStatus": 2,
+        "startDate": "2024.06.03 06:00:00",
+        "location": "김밥천국 체육관",
+        "headCount": 30,
+        "name": "아침 달리기",
+        "exerciseType": {
+          "type": 1,
+          "groupsId": 10
+        },
+        "exerciseThumbnail": "",
+        "regularDay": 2,
+        "gatheringInfo": {
+          "type": 1,
+          "groupsId": 10
+        }
+      },
+      {
+        "exerciseId": 4,
+        "region": "서울시 강북구",
+        "exerciseStatus": 3,
+        "startDate": "2024.06.04 19:00:00",
+        "location": "선우 체육관",
+        "headCount": 25,
+        "name": "저녁 농구",
+        "exerciseType": {
+          "type": 1,
+          "groupsId": 3
+        },
+        "exerciseThumbnail": "",
+        "regularDay": 3,
+        "gatheringInfo": {
+          "type": 1,
+          "groupsId": 3
+        }
+      },
+      {
+        "exerciseId": 5,
+        "region": "서울시 노원구",
+        "exerciseStatus": 0,
+        "startDate": "2024.06.05 07:00:00",
+        "location": "미성 체육관",
+        "headCount": 18,
+        "name": "스트레칭 모임",
+        "exerciseType": {
+          "type": 0,
+          "groupsId": null
+        },
+        "exerciseThumbnail": "",
+        "regularDay": 4,
+        "gatheringInfo": {
+          "type": 0,
+          "groupsId": null
+        }
+      },
+      {
+        "exerciseId": 6,
+        "region": "서울시 강북구",
+        "exerciseStatus": 1,
+        "startDate": "2024.06.06 17:00:00",
+        "location": "김밥천국 체육관",
+        "headCount": 22,
+        "name": "필라테스 모임",
+        "exerciseType": {
+          "type": 0,
+          "groupsId": null
+        },
+        "exerciseThumbnail": "",
+        "regularDay": 5,
+        "gatheringInfo": {
+          "type": 0,
+          "groupsId": null
+        }
+      },
+      {
+        "exerciseId": 7,
+        "region": "서울시 노원구",
+        "exerciseStatus": 2,
+        "startDate": "2024.06.07 20:00:00",
+        "location": "선우 체육관",
+        "headCount": 10,
+        "name": "야간 축구",
+        "exerciseType": {
+          "type": 1,
+          "groupsId": 7
+        },
+        "exerciseThumbnail": "",
+        "regularDay": 6,
+        "gatheringInfo": {
+          "type": 1,
+          "groupsId": 7
+        }
+      },
+      {
+        "exerciseId": 8,
+        "region": "서울시 강북구",
+        "exerciseStatus": 3,
+        "startDate": "2024.06.08 12:00:00",
+        "location": "미성 체육관",
+        "headCount": 27,
+        "name": "정오 에어로빅",
+        "exerciseType": {
+          "type": 0,
+          "groupsId": null
+        },
+        "exerciseThumbnail": "",
+        "regularDay": 7,
+        "gatheringInfo": {
+          "type": 0,
+          "groupsId": null
+        }
+      },
+      {
+        "exerciseId": 9,
+        "region": "서울시 노원구",
+        "exerciseStatus": 0,
+        "startDate": "2024.06.09 09:00:00",
+        "location": "김밥천국 체육관",
+        "headCount": 35,
+        "name": "아침 체조",
+        "exerciseType": {
+          "type": 0,
+          "groupsId": null
+        },
+        "exerciseThumbnail": "",
+        "regularDay": 1,
+        "gatheringInfo": {
+          "type": 0,
+          "groupsId": null
+        }
+      },
+      {
+        "exerciseId": 10,
+        "region": "서울시 강북구",
+        "exerciseStatus": 1,
+        "startDate": "2024.06.10 15:00:00",
+        "location": "선우 체육관",
+        "headCount": 19,
+        "name": "오후 자전거",
+        "exerciseType": {
+          "type": 0,
+          "groupsId": null
+        },
+        "exerciseThumbnail": "",
+        "regularDay": 2,
+        "gatheringInfo": {
+          "type": 0,
+          "groupsId": null
+        }
+      },
+      {
+        "exerciseId": 11,
+        "region": "서울시 노원구",
+        "exerciseStatus": 2,
+        "startDate": "2024.06.11 10:00:00",
+        "location": "미성 체육관",
+        "headCount": 23,
+        "name": "번개 운동",
+        "exerciseType": {
+          "type": 1,
+          "groupsId": 12
+        },
+        "exerciseThumbnail": "",
+        "regularDay": 3,
+        "gatheringInfo": {
+          "type": 1,
+          "groupsId": 12
+        }
+      },
+      {
+        "exerciseId": 12,
+        "region": "서울시 강북구",
+        "exerciseStatus": 3,
+        "startDate": "2024.06.12 14:00:00",
+        "location": "김밥천국 체육관",
+        "headCount": 20,
+        "name": "주말 요가",
+        "exerciseType": {
+          "type": 0,
+          "groupsId": null
+        },
+        "exerciseThumbnail": "",
+        "regularDay": 4,
+        "gatheringInfo": {
+          "type": 0,
+          "groupsId": null
+        }
+      },
+      {
+        "exerciseId": 13,
+        "region": "서울시 노원구",
+        "exerciseStatus": 0,
+        "startDate": "2024.06.13 06:00:00",
+        "location": "선우 체육관",
+        "headCount": 30,
+        "name": "아침 달리기",
+        "exerciseType": {
+          "type": 1,
+          "groupsId": 4
+        },
+        "exerciseThumbnail": "",
+        "regularDay": 5,
+        "gatheringInfo": {
+          "type": 1,
+          "groupsId": 4
+        }
+      },
+      {
+        "exerciseId": 14,
+        "region": "서울시 강북구",
+        "exerciseStatus": 1,
+        "startDate": "2024.06.14 19:00:00",
+        "location": "미성 체육관",
+        "headCount": 25,
+        "name": "저녁 농구",
+        "exerciseType": {
+          "type": 1,
+          "groupsId": 9
+        },
+        "exerciseThumbnail": "",
+        "regularDay": 6,
+        "gatheringInfo": {
+          "type": 1,
+          "groupsId": 9
+        }
+      },
+      {
+        "exerciseId": 15,
+        "region": "서울시 노원구",
+        "exerciseStatus": 2,
+        "startDate": "2024.06.15 07:00:00",
+        "location": "김밥천국 체육관",
+        "headCount": 18,
+        "name": "스트레칭 모임",
+        "exerciseType": {
+          "type": 0,
+          "groupsId": null
+        },
+        "exerciseThumbnail": "",
+        "regularDay": 7,
+        "gatheringInfo": {
+          "type": 0,
+          "groupsId": null
+        }
+      },
+      {
+        "exerciseId": 16,
+        "region": "서울시 강북구",
+        "exerciseStatus": 3,
+        "startDate": "2024.06.16 17:00:00",
+        "location": "선우 체육관",
+        "headCount": 22,
+        "name": "필라테스 모임",
+        "exerciseType": {
+          "type": 0,
+          "groupsId": null
+        },
+        "exerciseThumbnail": "",
+        "regularDay": 1,
+        "gatheringInfo": {
+          "type": 0,
+          "groupsId": null
+        }
+      }
+    ]
+
+  },
+  "search_exercise" : [
+    {
+      "exerciseId": 1,
+      "region": "서울시 노원구",
+      "exerciseStatus": 0,
+      "startDate": "2024.06.01 10:00:00",
+      "location": "선우 체육관",
+      "headCount": 23,
+      "name": "번개 운동",
+      "exerciseType": {
+        "type": 1,
+        "groupsId": 5
+      },
+      "exerciseThumbnail": "",
+      "regularDay": 1,
+      "gatheringInfo": {
+        "type": 1,
+        "groupsId": 5
+      }
+    },
+    {
+      "exerciseId": 2,
+      "region": "서울시 강북구",
+      "exerciseStatus": 1,
+      "startDate": "2024.06.02 14:00:00",
+      "location": "미성 체육관",
+      "headCount": 20,
+      "name": "주말 요가",
+      "exerciseType": {
+        "type": 0,
+        "groupsId": null
+      },
+      "exerciseThumbnail": "",
+      "regularDay": 7,
+      "gatheringInfo": {
+        "type": 0,
+        "groupsId": null
+      }
+    },
+    {
+      "exerciseId": 3,
+      "region": "서울시 노원구",
+      "exerciseStatus": 2,
+      "startDate": "2024.06.03 06:00:00",
+      "location": "김밥천국 체육관",
+      "headCount": 30,
+      "name": "아침 달리기",
+      "exerciseType": {
+        "type": 1,
+        "groupsId": 10
+      },
+      "exerciseThumbnail": "",
+      "regularDay": 2,
+      "gatheringInfo": {
+        "type": 1,
+        "groupsId": 10
+      }
+    },
+    {
+      "exerciseId": 4,
+      "region": "서울시 강북구",
+      "exerciseStatus": 3,
+      "startDate": "2024.06.04 19:00:00",
+      "location": "선우 체육관",
+      "headCount": 25,
+      "name": "저녁 농구",
+      "exerciseType": {
+        "type": 1,
+        "groupsId": 3
+      },
+      "exerciseThumbnail": "",
+      "regularDay": 3,
+      "gatheringInfo": {
+        "type": 1,
+        "groupsId": 3
+      }
+    },
+    {
+      "exerciseId": 5,
+      "region": "서울시 노원구",
+      "exerciseStatus": 0,
+      "startDate": "2024.06.05 07:00:00",
+      "location": "미성 체육관",
+      "headCount": 18,
+      "name": "스트레칭 모임",
+      "exerciseType": {
+        "type": 0,
+        "groupsId": null
+      },
+      "exerciseThumbnail": "",
+      "regularDay": 4,
+      "gatheringInfo": {
+        "type": 0,
+        "groupsId": null
+      }
+    },
+    {
+      "exerciseId": 6,
+      "region": "서울시 강북구",
+      "exerciseStatus": 1,
+      "startDate": "2024.06.06 17:00:00",
+      "location": "김밥천국 체육관",
+      "headCount": 22,
+      "name": "필라테스 모임",
+      "exerciseType": {
+        "type": 0,
+        "groupsId": null
+      },
+      "exerciseThumbnail": "",
+      "regularDay": 5,
+      "gatheringInfo": {
+        "type": 0,
+        "groupsId": null
+      }
+    },
+    {
+      "exerciseId": 7,
+      "region": "서울시 노원구",
+      "exerciseStatus": 2,
+      "startDate": "2024.06.07 20:00:00",
+      "location": "선우 체육관",
+      "headCount": 10,
+      "name": "야간 축구",
+      "exerciseType": {
+        "type": 1,
+        "groupsId": 7
+      },
+      "exerciseThumbnail": "",
+      "regularDay": 6,
+      "gatheringInfo": {
+        "type": 1,
+        "groupsId": 7
+      }
+    },
+    {
+      "exerciseId": 8,
+      "region": "서울시 강북구",
+      "exerciseStatus": 3,
+      "startDate": "2024.06.08 12:00:00",
+      "location": "미성 체육관",
+      "headCount": 27,
+      "name": "정오 에어로빅",
+      "exerciseType": {
+        "type": 0,
+        "groupsId": null
+      },
+      "exerciseThumbnail": "",
+      "regularDay": 7,
+      "gatheringInfo": {
+        "type": 0,
+        "groupsId": null
+      }
+    },
+    {
+      "exerciseId": 9,
+      "region": "서울시 노원구",
+      "exerciseStatus": 0,
+      "startDate": "2024.06.09 09:00:00",
+      "location": "김밥천국 체육관",
+      "headCount": 35,
+      "name": "아침 체조",
+      "exerciseType": {
+        "type": 0,
+        "groupsId": null
+      },
+      "exerciseThumbnail": "",
+      "regularDay": 1,
+      "gatheringInfo": {
+        "type": 0,
+        "groupsId": null
+      }
+    },
+    {
+      "exerciseId": 10,
+      "region": "서울시 강북구",
+      "exerciseStatus": 1,
+      "startDate": "2024.06.10 15:00:00",
+      "location": "선우 체육관",
+      "headCount": 19,
+      "name": "오후 자전거",
+      "exerciseType": {
+        "type": 0,
+        "groupsId": null
+      },
+      "exerciseThumbnail": "",
+      "regularDay": 2,
+      "gatheringInfo": {
+        "type": 0,
+        "groupsId": null
+      }
+    },
+    {
+      "exerciseId": 11,
+      "region": "서울시 노원구",
+      "exerciseStatus": 2,
+      "startDate": "2024.06.11 10:00:00",
+      "location": "미성 체육관",
+      "headCount": 23,
+      "name": "번개 운동",
+      "exerciseType": {
+        "type": 1,
+        "groupsId": 12
+      },
+      "exerciseThumbnail": "",
+      "regularDay": 3,
+      "gatheringInfo": {
+        "type": 1,
+        "groupsId": 12
+      }
+    },
+    {
+      "exerciseId": 12,
+      "region": "서울시 강북구",
+      "exerciseStatus": 3,
+      "startDate": "2024.06.12 14:00:00",
+      "location": "김밥천국 체육관",
+      "headCount": 20,
+      "name": "주말 요가",
+      "exerciseType": {
+        "type": 0,
+        "groupsId": null
+      },
+      "exerciseThumbnail": "",
+      "regularDay": 4,
+      "gatheringInfo": {
+        "type": 0,
+        "groupsId": null
+      }
+    },
+    {
+      "exerciseId": 13,
+      "region": "서울시 노원구",
+      "exerciseStatus": 0,
+      "startDate": "2024.06.13 06:00:00",
+      "location": "선우 체육관",
+      "headCount": 30,
+      "name": "아침 달리기",
+      "exerciseType": {
+        "type": 1,
+        "groupsId": 4
+      },
+      "exerciseThumbnail": "",
+      "regularDay": 5,
+      "gatheringInfo": {
+        "type": 1,
+        "groupsId": 4
+      }
+    },
+    {
+      "exerciseId": 14,
+      "region": "서울시 강북구",
+      "exerciseStatus": 1,
+      "startDate": "2024.06.14 19:00:00",
+      "location": "미성 체육관",
+      "headCount": 25,
+      "name": "저녁 농구",
+      "exerciseType": {
+        "type": 1,
+        "groupsId": 9
+      },
+      "exerciseThumbnail": "",
+      "regularDay": 6,
+      "gatheringInfo": {
+        "type": 1,
+        "groupsId": 9
+      }
+    },
+    {
+      "exerciseId": 15,
+      "region": "서울시 노원구",
+      "exerciseStatus": 2,
+      "startDate": "2024.06.15 07:00:00",
+      "location": "김밥천국 체육관",
+      "headCount": 18,
+      "name": "스트레칭 모임",
+      "exerciseType": {
+        "type": 0,
+        "groupsId": null
+      },
+      "exerciseThumbnail": "",
+      "regularDay": 7,
+      "gatheringInfo": {
+        "type": 0,
+        "groupsId": null
+      }
+    },
+    {
+      "exerciseId": 16,
+      "region": "서울시 강북구",
+      "exerciseStatus": 3,
+      "startDate": "2024.06.16 17:00:00",
+      "location": "선우 체육관",
+      "headCount": 22,
+      "name": "필라테스 모임",
+      "exerciseType": {
+        "type": 0,
+        "groupsId": null
+      },
+      "exerciseThumbnail": "",
+      "regularDay": 1,
+      "gatheringInfo": {
+        "type": 0,
+        "groupsId": null
+      }
+    }
+  ],
+  "exercise_introduction" : [
+    {
+      "exerciseId": 0,
+      "description": "Description for exercise 0.",
+      "createDate": "2023.05.15 14:23:45",
+      "editDate": "2023.06.20 09:10:30"
+    },
+    {
+      "exerciseId": 1,
+      "description": "Description for exercise 1.",
+      "createDate": "2023.07.20 12:15:30",
+      "editDate": "2023.08.25 10:05:50"
+    },
+    {
+      "exerciseId": 2,
+      "description": "Description for exercise 2.",
+      "createDate": "2023.09.30 11:45:10",
+      "editDate": "2023.10.15 08:20:25"
+    },
+    {
+      "exerciseId": 3,
+      "description": "Description for exercise 3.",
+      "createDate": "2023.11.10 16:30:45",
+      "editDate": "2023.12.20 07:25:15"
+    },
+    {
+      "exerciseId": 4,
+      "description": "Description for exercise 4.",
+      "createDate": "2024.01.05 15:20:35",
+      "editDate": "2024.02.10 13:40:55"
+    },
+    {
+      "exerciseId": 5,
+      "description": "Description for exercise 5.",
+      "createDate": "2024.03.15 14:30:10",
+      "editDate": "2024.04.18 12:10:20"
+    },
+    {
+      "exerciseId": 6,
+      "description": "Description for exercise 6.",
+      "createDate": "2023.04.25 17:45:50",
+      "editDate": "2023.05.28 14:05:30"
+    },
+    {
+      "exerciseId": 7,
+      "description": "Description for exercise 7.",
+      "createDate": "2023.06.12 09:25:15",
+      "editDate": "2023.07.15 11:35:20"
+    },
+    {
+      "exerciseId": 8,
+      "description": "Description for exercise 8.",
+      "createDate": "2023.08.20 13:15:25",
+      "editDate": "2023.09.22 10:55:30"
+    },
+    {
+      "exerciseId": 9,
+      "description": "Description for exercise 9.",
+      "createDate": "2023.10.05 14:05:10",
+      "editDate": "2023.11.07 09:35:45"
+    },
+    {
+      "exerciseId": 10,
+      "description": "Description for exercise 10.",
+      "createDate": "2023.12.10 10:30:15",
+      "editDate": "2024.01.12 08:20:25"
+    },
+    {
+      "exerciseId": 11,
+      "description": "Description for exercise 11.",
+      "createDate": "2024.02.14 11:10:35",
+      "editDate": "2024.03.17 07:50:50"
+    },
+    {
+      "exerciseId": 12,
+      "description": "Description for exercise 12.",
+      "createDate": "2023.03.18 15:40:20",
+      "editDate": "2023.04.20 12:15:30"
+    },
+    {
+      "exerciseId": 13,
+      "description": "Description for exercise 13.",
+      "createDate": "2023.05.24 13:35:40",
+      "editDate": "2023.06.26 14:45:50"
+    },
+    {
+      "exerciseId": 14,
+      "description": "Description for exercise 14.",
+      "createDate": "2023.07.30 08:25:25",
+      "editDate": "2023.08.30 09:50:10"
+    },
+    {
+      "exerciseId": 15,
+      "description": "Description for exercise 15.",
+      "createDate": "2023.09.04 12:50:15",
+      "editDate": "2023.10.06 10:35:20"
+    },
+    {
+      "exerciseId": 16,
+      "description": "Description for exercise 16.",
+      "createDate": "2023.11.09 14:40:30",
+      "editDate": "2023.12.12 11:05:35"
+    }
+  ],
+  "popularGroups_head" : [
+    {
+      "groupsId": 1,
+      "groupsName": "호담시",
+      "groupsDescription": "즐거운 운동 모임",
+      "region": ["서울시 노원구", "서울시 강북구"],
+      "startDate": "2024.06.01 10:00:00",
+      "headCount": 23,
+      "limitHeadCount": 30,
+      "location": "선우 체육관",
+      "gatheringThumbnail": ""
+    },
+    {
+      "groupsId": 2,
+      "groupsName": "Team SeoB",
+      "groupsDescription": "함께하는 운동",
+      "region": ["경기도 포천시", "경기도 화성시"],
+      "startDate": "2024.06.02 14:00:00",
+      "headCount": 20,
+      "limitHeadCount": 25,
+      "location": "미성 체육관",
+      "gatheringThumbnail": ""
+    },
+    {
+      "groupsId": 3,
+      "groupsName": "아침 달리기",
+      "groupsDescription": "아침 운동 모임",
+      "region": ["서울시 노원구"],
+      "startDate": "2024.06.03 06:00:00",
+      "headCount": 30,
+      "limitHeadCount": 35,
+      "location": "김밥천국 체육관",
+      "gatheringThumbnail": ""
+    }
+  ],
+  "popularGroups_all" : [
+    {
+      "groupsId": 1,
+      "groupsName": "호담시",
+      "groupsDescription": "즐거운 운동 모임",
+      "region": ["서울시 노원구", "서울시 강북구"],
+      "startDate": "2024.06.01 10:00:00",
+      "headCount": 23,
+      "limitHeadCount": 30,
+      "location": "선우 체육관",
+      "gatheringThumbnail": ""
+    },
+    {
+      "groupsId": 2,
+      "groupsName": "Team SeoB",
+      "groupsDescription": "함께하는 운동",
+      "region": ["경기도 포천시", "경기도 화성시"],
+      "startDate": "2024.06.02 14:00:00",
+      "headCount": 20,
+      "limitHeadCount": 25,
+      "location": "미성 체육관",
+      "gatheringThumbnail": ""
+    },
+    {
+      "groupsId": 3,
+      "groupsName": "아침 달리기",
+      "groupsDescription": "아침 운동 모임",
+      "region": ["서울시 노원구"],
+      "startDate": "2024.06.03 06:00:00",
+      "headCount": 30,
+      "limitHeadCount": 35,
+      "location": "김밥천국 체육관",
+      "gatheringThumbnail": ""
+    },
+    {
+      "groupsId": 4,
+      "groupsName": "저녁 농구",
+      "groupsDescription": "저녁 운동 모임",
+      "region": ["서울시 강북구"],
+      "startDate": "2024.06.04 19:00:00",
+      "headCount": 25,
+      "limitHeadCount": 28,
+      "location": "선우 체육관",
+      "gatheringThumbnail": ""
+    },
+    {
+      "groupsId": 5,
+      "groupsName": "스트레칭 모임",
+      "groupsDescription": "유연성을 기르기 위한 모임",
+      "region": ["서울시 노원구", "서울시 강북구"],
+      "startDate": "2024.06.05 07:00:00",
+      "headCount": 18,
+      "limitHeadCount": 20,
+      "location": "미성 체육관",
+      "gatheringThumbnail": ""
+    },
+    {
+      "groupsId": 6,
+      "groupsName": "필라테스 모임",
+      "groupsDescription": "코어 강화를 위한 필라테스 모임",
+      "region": ["경기도 포천시"],
+      "startDate": "2024.06.06 17:00:00",
+      "headCount": 22,
+      "limitHeadCount": 25,
+      "location": "김밥천국 체육관",
+      "gatheringThumbnail": ""
+    },
+    {
+      "groupsId": 7,
+      "groupsName": "야간 축구",
+      "groupsDescription": "밤에 하는 축구 경기",
+      "region": ["경기도 화성시"],
+      "startDate": "2024.06.07 20:00:00",
+      "headCount": 10,
+      "limitHeadCount": 15,
+      "location": "선우 체육관",
+      "gatheringThumbnail": ""
+    },
+    {
+      "groupsId": 8,
+      "groupsName": "정오 에어로빅",
+      "groupsDescription": "정오에 하는 에어로빅",
+      "region": ["서울시 노원구"],
+      "startDate": "2024.06.08 12:00:00",
+      "headCount": 27,
+      "limitHeadCount": 30,
+      "location": "미성 체육관",
+      "gatheringThumbnail": ""
+    },
+    {
+      "groupsId": 9,
+      "groupsName": "아침 체조",
+      "groupsDescription": "아침에 하는 체조",
+      "region": ["서울시 강북구"],
+      "startDate": "2024.06.09 09:00:00",
+      "headCount": 35,
+      "limitHeadCount": 40,
+      "location": "김밥천국 체육관",
+      "gatheringThumbnail": ""
+    },
+    {
+      "groupsId": 10,
+      "groupsName": "오후 자전거",
+      "groupsDescription": "오후에 하는 자전거 타기",
+      "region": ["경기도 포천시"],
+      "startDate": "2024.06.10 15:00:00",
+      "headCount": 19,
+      "limitHeadCount": 22,
+      "location": "선우 체육관",
+      "gatheringThumbnail": ""
+    },
+    {
+      "groupsId": 11,
+      "groupsName": "번개 운동",
+      "groupsDescription": "갑작스러운 운동 모임",
+      "region": ["서울시 노원구", "서울시 강북구"],
+      "startDate": "2024.06.11 10:00:00",
+      "headCount": 23,
+      "limitHeadCount": 26,
+      "location": "미성 체육관",
+      "gatheringThumbnail": ""
+    },
+    {
+      "groupsId": 12,
+      "groupsName": "주말 요가",
+      "groupsDescription": "주말에 하는 요가",
+      "region": ["경기도 화성시"],
+      "startDate": "2024.06.12 14:00:00",
+      "headCount": 20,
+      "limitHeadCount": 25,
+      "location": "김밥천국 체육관",
+      "gatheringThumbnail": ""
+    },
+    {
+      "groupsId": 13,
+      "groupsName": "아침 달리기",
+      "groupsDescription": "아침 운동 모임",
+      "region": ["서울시 노원구"],
+      "startDate": "2024.06.13 06:00:00",
+      "headCount": 30,
+      "limitHeadCount": 35,
+      "location": "선우 체육관",
+      "gatheringThumbnail": ""
+    },
+    {
+      "groupsId": 14,
+      "groupsName": "저녁 농구",
+      "groupsDescription": "저녁 운동 모임",
+      "region": ["서울시 강북구"],
+      "startDate": "2024.06.14 19:00:00",
+      "headCount": 25,
+      "limitHeadCount": 28,
+      "location": "미성 체육관",
+      "gatheringThumbnail": ""
+    },
+    {
+      "groupsId": 15,
+      "groupsName": "스트레칭 모임",
+      "groupsDescription": "유연성을 기르기 위한 모임",
+      "region": ["경기도 포천시"],
+      "startDate": "2024.06.15 07:00:00",
+      "headCount": 18,
+      "limitHeadCount": 20,
+      "location": "김밥천국 체육관",
+      "gatheringThumbnail": ""
+    },
+    {
+      "groupsId": 16,
+      "groupsName": "필라테스 모임",
+      "groupsDescription": "코어 강화를 위한 필라테스 모임",
+      "region": ["경기도 화성시"],
+      "startDate": "2024.06.16 17:00:00",
+      "headCount": 22,
+      "limitHeadCount": 25,
+      "location": "선우 체육관",
+      "gatheringThumbnail": ""
+    }
+  ],
+  "groupsIntroduction" : [
+    {
+      "groupsId": 1,
+      "introduction": "Team SEOB 공지사항 안내드립니다용~ 👋모두가 재미있게 운동할 수 있도록 노력할 것이니 공지사항 숙지 및 협조 부탁드려요 🙇‍♂️",
+      "background": ""
+    },
+    {
+      "groupsId": 2,
+      "introduction": "즐거운 운동 모임을 소개합니다. 🏋️‍♀️ 매주 토요일에 모여 함께 운동해요. 💪 초보자도 환영합니다!",
+      "background": ""
+    },
+    {
+      "groupsId": 3,
+      "introduction": "함께하는 운동, 더 큰 즐거움! 우리 모임은 다양한 운동 프로그램을 제공합니다. 🌟",
+      "background": ""
+    },
+    {
+      "groupsId": 4,
+      "introduction": "운동 후 함께하는 다과 시간도 준비되어 있습니다. ☕ 모두 함께 즐거운 시간을 보내요!",
+      "background": ""
+    },
+    {
+      "groupsId": 5,
+      "introduction": "건강한 몸, 건강한 마음! 우리 모임에서 함께 운동하며 건강을 챙겨요. 🍀",
+      "background": ""
+    },
+    {
+      "groupsId": 6,
+      "introduction": "모두가 함께하는 즐거운 운동 시간! 다양한 활동과 프로그램이 준비되어 있습니다. 🎉",
+      "background": ""
+    },
+    {
+      "groupsId": 7,
+      "introduction": "매주 일요일 아침, 함께하는 운동 모임! 모두가 함께 건강을 챙겨요. 🌞",
+      "background": ""
+    },
+    {
+      "groupsId": 8,
+      "introduction": "운동으로 스트레스를 날려버려요! 스트레스 해소를 위한 다양한 프로그램이 준비되어 있습니다. 🧘‍♀️",
+      "background": ""
+    },
+    {
+      "groupsId": 9,
+      "introduction": "모두가 즐길 수 있는 다양한 운동 프로그램! 초보자도 쉽게 참가할 수 있어요. 🌟",
+      "background": ""
+    },
+    {
+      "groupsId": 10,
+      "introduction": "운동 후 리프레시 시간! 함께 모여 즐거운 시간을 보내요. ☕",
+      "background": ""
+    },
+    {
+      "groupsId": 11,
+      "introduction": "우리 모임에서 새로운 친구들을 만나보세요! 함께 운동하며 친목을 다져요. 🤝",
+      "background": ""
+    },
+    {
+      "groupsId": 12,
+      "introduction": "건강한 생활을 위한 첫 걸음! 함께 운동하며 건강을 챙겨요. 🍀",
+      "background": ""
+    },
+    {
+      "groupsId": 13,
+      "introduction": "매주 화요일 저녁, 함께하는 운동 시간! 모두가 함께 즐겨요. 🌜",
+      "background": ""
+    },
+    {
+      "groupsId": 14,
+      "introduction": "즐거운 운동 모임! 다양한 프로그램이 준비되어 있습니다. 🏋️‍♂️",
+      "background": ""
+    },
+    {
+      "groupsId": 15,
+      "introduction": "건강을 위한 첫 걸음, 우리 모임에서 함께하세요! 다양한 운동 프로그램이 준비되어 있습니다. 💪",
+      "background": ""
+    }
+  ],
+  "article" : [
+    {
+      "id": 0,
+      "author": {
+        "userId": 69,
+        "name": "Author Name 0",
+        "nickName": "Nickname 0",
+        "profileImage": null
+      },
+      "status": 102,
+      "title": "Sample Title 0",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": "https://cataas.com/cat",
+      "comments": 83,
+      "views": 205,
+      "likes": 43,
+      "isLikedByUser": true,
+      "createDate": "2023.07.20 13:27:07",
+      "editDate": "2024.01.03 13:27:07"
+    },
+    {
+      "id": 1,
+      "author": {
+        "userId": 48,
+        "name": "Author Name 1",
+        "nickName": "Nickname 1",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "status": 102,
+      "title": "Sample Title 1",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": "https://cataas.com/cat",
+      "comments": 41,
+      "views": 612,
+      "likes": 54,
+      "isLikedByUser": false,
+      "createDate": "2023.10.04 13:27:07",
+      "editDate": "2024.03.11 13:27:07"
+    },
+    {
+      "id": 2,
+      "author": {
+        "userId": 98,
+        "name": "Author Name 2",
+        "nickName": "Nickname 2",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "status": 0,
+      "title": "Sample Title 2",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": "https://cataas.com/cat",
+      "comments": 70,
+      "views": 709,
+      "likes": 241,
+      "isLikedByUser": false,
+      "createDate": "2023.10.13 13:27:07",
+      "editDate": "2023.08.22 13:27:07"
+    },
+    {
+      "id": 3,
+      "author": {
+        "userId": 60,
+        "name": "Author Name 3",
+        "nickName": "Nickname 3",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "status": 1,
+      "title": "Sample Title 3",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": null,
+      "comments": 19,
+      "views": 359,
+      "likes": 67,
+      "isLikedByUser": false,
+      "createDate": "2023.12.16 13:27:07",
+      "editDate": "2023.08.12 13:27:07"
+    },
+    {
+      "id": 4,
+      "author": {
+        "userId": 61,
+        "name": "Author Name 4",
+        "nickName": "Nickname 4",
+        "profileImage": null
+      },
+      "status": 1,
+      "title": "Sample Title 4",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": null,
+      "comments": 3,
+      "views": 829,
+      "likes": 123,
+      "isLikedByUser": false,
+      "createDate": "2023.09.23 13:27:07",
+      "editDate": "2023.10.01 13:27:07"
+    },
+    {
+      "id": 5,
+      "author": {
+        "userId": 37,
+        "name": "Author Name 5",
+        "nickName": "Nickname 5",
+        "profileImage": null
+      },
+      "status": 0,
+      "title": "Sample Title 5",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": "https://cataas.com/cat",
+      "comments": 4,
+      "views": 811,
+      "likes": 241,
+      "isLikedByUser": false,
+      "createDate": "2023.11.17 13:27:07",
+      "editDate": "2024.04.12 13:27:07"
+    },
+    {
+      "id": 6,
+      "author": {
+        "userId": 16,
+        "name": "Author Name 6",
+        "nickName": "Nickname 6",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "status": 101,
+      "title": "Sample Title 6",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": null,
+      "comments": 56,
+      "views": 347,
+      "likes": 82,
+      "isLikedByUser": false,
+      "createDate": "2023.07.19 13:27:07",
+      "editDate": "2023.10.17 13:27:07"
+    },
+    {
+      "id": 7,
+      "author": {
+        "userId": 47,
+        "name": "Author Name 7",
+        "nickName": "Nickname 7",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "status": 100,
+      "title": "Sample Title 7",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": null,
+      "comments": 36,
+      "views": 381,
+      "likes": 102,
+      "isLikedByUser": true,
+      "createDate": "2023.06.10 13:27:07",
+      "editDate": "2024.02.11 13:27:07"
+    },
+    {
+      "id": 8,
+      "author": {
+        "userId": 63,
+        "name": "Author Name 8",
+        "nickName": "Nickname 8",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "status": 2,
+      "title": "Sample Title 8",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": "https://cataas.com/cat",
+      "comments": 29,
+      "views": 828,
+      "likes": 241,
+      "isLikedByUser": false,
+      "createDate": "2023.09.27 13:27:07",
+      "editDate": "2024.02.24 13:27:07"
+    },
+    {
+      "id": 9,
+      "author": {
+        "userId": 32,
+        "name": "Author Name 9",
+        "nickName": "Nickname 9",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "status": 1,
+      "title": "Sample Title 9",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": null,
+      "comments": 75,
+      "views": 857,
+      "likes": 221,
+      "isLikedByUser": false,
+      "createDate": "2024.01.04 13:27:07",
+      "editDate": "2023.07.16 13:27:07"
+    },
+    {
+      "id": 10,
+      "author": {
+        "userId": 16,
+        "name": "Author Name 10",
+        "nickName": "Nickname 10",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "status": 2,
+      "title": "Sample Title 10",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": "https://cataas.com/cat",
+      "comments": 53,
+      "views": 405,
+      "likes": 4,
+      "isLikedByUser": false,
+      "createDate": "2023.11.09 13:27:07",
+      "editDate": "2024.03.20 13:27:07"
+    },
+    {
+      "id": 11,
+      "author": {
+        "userId": 32,
+        "name": "Author Name 11",
+        "nickName": "Nickname 11",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "status": 100,
+      "title": "Sample Title 11",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": "https://cataas.com/cat",
+      "comments": 84,
+      "views": 793,
+      "likes": 24,
+      "isLikedByUser": false,
+      "createDate": "2024.04.06 13:27:07",
+      "editDate": "2024.04.25 13:27:07"
+    },
+    {
+      "id": 12,
+      "author": {
+        "userId": 14,
+        "name": "Author Name 12",
+        "nickName": "Nickname 12",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "status": 104,
+      "title": "Sample Title 12",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": null,
+      "comments": 47,
+      "views": 633,
+      "likes": 5,
+      "isLikedByUser": false,
+      "createDate": "2023.11.01 13:27:07",
+      "editDate": "2023.06.13 13:27:07"
+    },
+    {
+      "id": 13,
+      "author": {
+        "userId": 25,
+        "name": "Author Name 13",
+        "nickName": "Nickname 13",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "status": 2,
+      "title": "Sample Title 13",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": "https://cataas.com/cat",
+      "comments": 14,
+      "views": 548,
+      "likes": 33,
+      "isLikedByUser": false,
+      "createDate": "2024.02.13 13:27:07",
+      "editDate": "2023.06.09 13:27:07"
+    },
+    {
+      "id": 14,
+      "author": {
+        "userId": 25,
+        "name": "Author Name 14",
+        "nickName": "Nickname 14",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "status": 2,
+      "title": "Sample Title 14",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": null,
+      "comments": 82,
+      "views": 816,
+      "likes": 21,
+      "isLikedByUser": false,
+      "createDate": "2023.12.04 13:27:07",
+      "editDate": "2023.07.17 13:27:07"
+    },
+    {
+      "id": 15,
+      "author": {
+        "userId": 94,
+        "name": "Author Name 15",
+        "nickName": "Nickname 15",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "status": 3,
+      "title": "Sample Title 15",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": "https://cataas.com/cat",
+      "comments": 18,
+      "views": 149,
+      "likes": 41,
+      "isLikedByUser": true,
+      "createDate": "2023.08.20 13:27:07",
+      "editDate": "2024.02.27 13:27:07"
+    },
+    {
+      "id": 16,
+      "author": {
+        "userId": 30,
+        "name": "Author Name 16",
+        "nickName": "Nickname 16",
+        "profileImage": null
+      },
+      "status": 102,
+      "title": "Sample Title 16",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": "https://cataas.com/cat",
+      "comments": 8,
+      "views": 223,
+      "likes": 12,
+      "isLikedByUser": true,
+      "createDate": "2024.04.19 13:27:07",
+      "editDate": "2023.11.22 13:27:07"
+    },
+    {
+      "id": 17,
+      "author": {
+        "userId": 95,
+        "name": "Author Name 17",
+        "nickName": "Nickname 17",
+        "profileImage": null
+      },
+      "status": 100,
+      "title": "Sample Title 17",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": null,
+      "comments": 2,
+      "views": 309,
+      "likes": 34,
+      "isLikedByUser": false,
+      "createDate": "2024.01.07 13:27:07",
+      "editDate": "2023.07.26 13:27:07"
+    },
+    {
+      "id": 18,
+      "author": {
+        "userId": 98,
+        "name": "Author Name 18",
+        "nickName": "Nickname 18",
+        "profileImage": null
+      },
+      "status": 104,
+      "title": "Sample Title 18",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": null,
+      "comments": 4,
+      "views": 697,
+      "likes": 12,
+      "isLikedByUser": false,
+      "createDate": "2023.07.13 13:27:07",
+      "editDate": "2023.06.11 13:27:07"
+    },
+    {
+      "id": 19,
+      "author": {
+        "userId": 84,
+        "name": "Author Name 19",
+        "nickName": "Nickname 19",
+        "profileImage": null
+      },
+      "status": 104,
+      "title": "Sample Title 19",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": null,
+      "comments": 91,
+      "views": 151,
+      "likes": 23,
+      "isLikedByUser": false,
+      "createDate": "2024.05.14 13:27:07",
+      "editDate": "2024.03.18 13:27:07"
+    },
+    {
+      "id": 20,
+      "author": {
+        "userId": 38,
+        "name": "Author Name 20",
+        "nickName": "Nickname 20",
+        "profileImage": null
+      },
+      "status": 104,
+      "title": "Sample Title 20",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": "https://cataas.com/cat",
+      "comments": 6,
+      "views": 289,
+      "likes": 86,
+      "isLikedByUser": false,
+      "createDate": "2023.08.10 13:27:07",
+      "editDate": "2023.07.15 13:27:07"
+    },
+    {
+      "id": 21,
+      "author": {
+        "userId": 47,
+        "name": "Author Name 21",
+        "nickName": "Nickname 21",
+        "profileImage": null
+      },
+      "status": 3,
+      "title": "Sample Title 21",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": "https://cataas.com/cat",
+      "comments": 6,
+      "views": 764,
+      "likes": 78,
+      "isLikedByUser": false,
+      "createDate": "2023.06.30 13:27:07",
+      "editDate": "2023.06.25 13:27:07"
+    },
+    {
+      "id": 22,
+      "author": {
+        "userId": 26,
+        "name": "Author Name 22",
+        "nickName": "Nickname 22",
+        "profileImage": null
+      },
+      "status": 0,
+      "title": "Sample Title 22",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": "https://cataas.com/cat",
+      "comments": 70,
+      "views": 169,
+      "likes": 44,
+      "isLikedByUser": false,
+      "createDate": "2024.03.14 13:27:07",
+      "editDate": "2023.09.08 13:27:07"
+    },
+    {
+      "id": 23,
+      "author": {
+        "userId": 17,
+        "name": "Author Name 23",
+        "nickName": "Nickname 23",
+        "profileImage": null
+      },
+      "status": 101,
+      "title": "Sample Title 23",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": null,
+      "comments": 6,
+      "views": 394,
+      "likes": 41,
+      "isLikedByUser": false,
+      "createDate": "2024.04.30 13:27:07",
+      "editDate": "2023.12.09 13:27:07"
+    },
+    {
+      "id": 24,
+      "author": {
+        "userId": 10,
+        "name": "Author Name 24",
+        "nickName": "Nickname 24",
+        "profileImage": null
+      },
+      "status": 100,
+      "title": "Sample Title 24",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": null,
+      "comments": 4,
+      "views": 225,
+      "likes": 41,
+      "isLikedByUser": false,
+      "createDate": "2023.06.25 13:27:07",
+      "editDate": "2024.03.15 13:27:07"
+    },
+    {
+      "id": 25,
+      "author": {
+        "userId": 20,
+        "name": "Author Name 25",
+        "nickName": "Nickname 25",
+        "profileImage": null
+      },
+      "status": 104,
+      "title": "Sample Title 25",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": null,
+      "comments": 22,
+      "views": 909,
+      "likes": 21,
+      "isLikedByUser": false,
+      "createDate": "2023.12.16 13:27:07",
+      "editDate": "2024.04.13 13:27:07"
+    },
+    {
+      "id": 26,
+      "author": {
+        "userId": 18,
+        "name": "Author Name 26",
+        "nickName": "Nickname 26",
+        "profileImage": null
+      },
+      "status": 101,
+      "title": "Sample Title 26",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": "https://cataas.com/cat",
+      "comments": 29,
+      "views": 374,
+      "likes": 81,
+      "isLikedByUser": false,
+      "createDate": "2024.01.22 13:27:07",
+      "editDate": "2024.03.06 13:27:07"
+    },
+    {
+      "id": 27,
+      "author": {
+        "userId": 22,
+        "name": "Author Name 27",
+        "nickName": "Nickname 27",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "status": 1,
+      "title": "Sample Title 27",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": null,
+      "comments": 46,
+      "views": 983,
+      "likes": 83,
+      "isLikedByUser": false,
+      "createDate": "2024.01.12 13:27:07",
+      "editDate": "2023.09.21 13:27:07"
+    },
+    {
+      "id": 28,
+      "author": {
+        "userId": 59,
+        "name": "Author Name 28",
+        "nickName": "Nickname 28",
+        "profileImage": null
+      },
+      "status": 104,
+      "title": "Sample Title 28",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": null,
+      "comments": 31,
+      "views": 70,
+      "likes": 23,
+      "isLikedByUser": false,
+      "createDate": "2023.06.27 13:27:07",
+      "editDate": "2023.10.02 13:27:07"
+    },
+    {
+      "id": 29,
+      "author": {
+        "userId": 82,
+        "name": "Author Name 29",
+        "nickName": "Nickname 29",
+        "profileImage": null
+      },
+      "status": 104,
+      "title": "Sample Title 29",
+      "content": "This is a sample content which should be exactly 100 characters long for testing purposes. ",
+      "image": "https://cataas.com/cat",
+      "comments": 15,
+      "views": 431,
+      "likes": 87,
+      "isLikedByUser": false,
+      "createDate": "2024.02.13 13:27:07",
+      "editDate": "2024.03.22 13:27:07"
+    }
+  ],
+  "articleDetail" : [
+    {
+      "id": 0,
+      "permission": 1,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": ["https://cataas.com/cat"]
+    },
+    {
+      "id": 1,
+      "permission": 0,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": ["https://cataas.com/cat"]
+    },
+    {
+      "id": 2,
+      "permission": 1,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": ["https://cataas.com/cat"]
+    },
+    {
+      "id": 3,
+      "permission": 0,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": []
+    },
+    {
+      "id": 4,
+      "permission": 1,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": []
+    },
+    {
+      "id": 5,
+      "permission": 0,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": ["https://cataas.com/cat"]
+    },
+    {
+      "id": 6,
+      "permission": 1,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": []
+    },
+    {
+      "id": 7,
+      "permission": 0,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": []
+    },
+    {
+      "id": 8,
+      "permission": 1,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": ["https://cataas.com/cat"]
+    },
+    {
+      "id": 9,
+      "permission": 0,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": []
+    },
+    {
+      "id": 10,
+      "permission": 1,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": ["https://cataas.com/cat"]
+    },
+    {
+      "id": 11,
+      "permission": 0,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": ["https://cataas.com/cat"]
+    },
+    {
+      "id": 12,
+      "permission": 1,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": []
+    },
+    {
+      "id": 13,
+      "permission": 0,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": ["https://cataas.com/cat"]
+    },
+    {
+      "id": 14,
+      "permission": 1,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": []
+    },
+    {
+      "id": 15,
+      "permission": 0,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": ["https://cataas.com/cat"]
+    },
+    {
+      "id": 16,
+      "permission": 1,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": ["https://cataas.com/cat"]
+    },
+    {
+      "id": 17,
+      "permission": 0,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": []
+    },
+    {
+      "id": 18,
+      "permission": 1,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": []
+    },
+    {
+      "id": 19,
+      "permission": 0,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": []
+    },
+    {
+      "id": 20,
+      "permission": 1,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": ["https://cataas.com/cat"]
+    },
+    {
+      "id": 21,
+      "permission": 0,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": ["https://cataas.com/cat"]
+    },
+    {
+      "id": 22,
+      "permission": 1,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": ["https://cataas.com/cat"]
+    },
+    {
+      "id": 23,
+      "permission": 0,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": []
+    },
+    {
+      "id": 24,
+      "permission": 1,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": []
+    },
+    {
+      "id": 25,
+      "permission": 0,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": []
+    },
+    {
+      "id": 26,
+      "permission": 1,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": ["https://cataas.com/cat"]
+    },
+    {
+      "id": 27,
+      "permission": 0,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": []
+    },
+    {
+      "id": 28,
+      "permission": 1,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": []
+    },
+    {
+      "id": 29,
+      "permission": 0,
+      "contentAll": "이 글은 테스트 목적으로 작성된 예시 본문입니다. 예시 본문은 140자 이상이어야 하므로, 여러 번 반복하여 길이를 맞춥니다. 이 글은 테스트 목적으로 작성된 예시 본문입니다.",
+      "imageAll": ["https://cataas.com/cat"]
+    }
+  ],
+  "memberList" : [
+    {
+      "userProfile": {
+        "userId": 69,
+        "name": "쓰르라미 울적에 케이이치 레나 리카 미온 사토코 ",
+        "nickName": "Nickname 0",
+        "profileImage": null
+      },
+      "memberStatus": 0
+    },
+    {
+      "userProfile": {
+        "userId": 48,
+        "name": "Author Name 1",
+        "nickName": "Nickname 1",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "memberStatus": 1
+    },
+    {
+      "userProfile": {
+        "userId": 98,
+        "name": "Author Name 2",
+        "nickName": "Nickname 2",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "memberStatus": 1
+    },
+    {
+      "userProfile": {
+        "userId": 60,
+        "name": "Author Name 3",
+        "nickName": "Nickname 3",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "memberStatus": 1
+    },
+    {
+      "userProfile": {
+        "userId": 61,
+        "name": "Author Name 4",
+        "nickName": "Nickname 4",
+        "profileImage": null
+      },
+      "memberStatus": 1
+    },
+    {
+      "userProfile": {
+        "userId": 37,
+        "name": "Author Name 5",
+        "nickName": "Nickname 5",
+        "profileImage": null
+      },
+      "memberStatus": 1
+    },
+    {
+      "userProfile": {
+        "userId": 16,
+        "name": "Author Name 6",
+        "nickName": "Nickname 6",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "memberStatus": 2
+    },
+    {
+      "userProfile": {
+        "userId": 47,
+        "name": "Author Name 7",
+        "nickName": "Nickname 7",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "memberStatus": 2
+    },
+    {
+      "userProfile": {
+        "userId": 63,
+        "name": "Author Name 8",
+        "nickName": "Nickname 8",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "memberStatus": 2
+    },
+    {
+      "userProfile": {
+        "userId": 32,
+        "name": "Author Name 9",
+        "nickName": "Nickname 9",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "memberStatus": 2
+    },
+    {
+      "userProfile": {
+        "userId": 16,
+        "name": "Author Name 10",
+        "nickName": "Nickname 10",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "memberStatus": 2
+    },
+    {
+      "userProfile": {
+        "userId": 32,
+        "name": "Author Name 11",
+        "nickName": "Nickname 11",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "memberStatus": 2
+    },
+    {
+      "userProfile": {
+        "userId": 14,
+        "name": "Author Name 12",
+        "nickName": "Nickname 12",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "memberStatus": 2
+    },
+    {
+      "userProfile": {
+        "userId": 25,
+        "name": "Author Name 13",
+        "nickName": "Nickname 13",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "memberStatus": 2
+    },
+    {
+      "userProfile": {
+        "userId": 25,
+        "name": "Author Name 14",
+        "nickName": "Nickname 14",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "memberStatus": 2
+    },
+    {
+      "userProfile": {
+        "userId": 94,
+        "name": "Author Name 15",
+        "nickName": "Nickname 15",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "memberStatus": 2
+    },
+    {
+      "userProfile": {
+        "userId": 30,
+        "name": "Author Name 16",
+        "nickName": "Nickname 16",
+        "profileImage": null
+      },
+      "memberStatus": 2
+    },
+    {
+      "userProfile": {
+        "userId": 95,
+        "name": "Author Name 17",
+        "nickName": "Nickname 17",
+        "profileImage": null
+      },
+      "memberStatus": 2
+    },
+    {
+      "userProfile": {
+        "userId": 98,
+        "name": "Author Name 18",
+        "nickName": "Nickname 18",
+        "profileImage": null
+      },
+      "memberStatus": 2
+    },
+    {
+      "userProfile": {
+        "userId": 84,
+        "name": "Author Name 19",
+        "nickName": "Nickname 19",
+        "profileImage": null
+      },
+      "memberStatus": 2
+    },
+    {
+      "userProfile": {
+        "userId": 38,
+        "name": "Author Name 20",
+        "nickName": "Nickname 20",
+        "profileImage": null
+      },
+      "memberStatus": 2
+    },
+    {
+      "userProfile": {
+        "userId": 47,
+        "name": "Author Name 21",
+        "nickName": "Nickname 21",
+        "profileImage": null
+      },
+      "memberStatus": 2
+    },
+    {
+      "userProfile": {
+        "userId": 26,
+        "name": "Author Name 22",
+        "nickName": "Nickname 22",
+        "profileImage": null
+      },
+      "memberStatus": 2
+    },
+    {
+      "userProfile": {
+        "userId": 17,
+        "name": "Author Name 23",
+        "nickName": "Nickname 23",
+        "profileImage": null
+      },
+      "memberStatus": 2
+    },
+    {
+      "userProfile": {
+        "userId": 10,
+        "name": "Author Name 24",
+        "nickName": "Nickname 24",
+        "profileImage": null
+      },
+      "memberStatus": 2
+    },
+    {
+      "userProfile": {
+        "userId": 20,
+        "name": "Author Name 25",
+        "nickName": "Nickname 25",
+        "profileImage": null
+      },
+      "memberStatus": 2
+    },
+    {
+      "userProfile": {
+        "userId": 18,
+        "name": "Author Name 26",
+        "nickName": "Nickname 26",
+        "profileImage": null
+      },
+      "memberStatus": 2
+    },
+    {
+      "userProfile": {
+        "userId": 22,
+        "name": "Author Name 27",
+        "nickName": "Nickname 27",
+        "profileImage": "https://i.pravatar.cc/300"
+      },
+      "memberStatus": 2
+    },
+    {
+      "userProfile": {
+        "userId": 59,
+        "name": "Author Name 28",
+        "nickName": "Nickname 28",
+        "profileImage": null
+      },
+      "memberStatus": 2
+    },
+    {
+      "userProfile": {
+        "userId": 82,
+        "name": "Author Name 29",
+        "nickName": "Nickname 29",
+        "profileImage": null
+      },
+      "memberStatus": 2
+    }
+  ],
+  "userList" : [
+    {
+      "userId": 69,
+      "name": "쓰르라미 울적에 케이이치 레나 리카 미온 사토코",
+      "nickName": "Nickname 0",
+      "profileImage": null
+    },
+    {
+      "userId": 48,
+      "name": "Author Name 1",
+      "nickName": "Nickname 1",
+      "profileImage": "https://i.pravatar.cc/300"
+    },
+    {
+      "userId": 98,
+      "name": "Author Name 2",
+      "nickName": "Nickname 2",
+      "profileImage": "https://i.pravatar.cc/300"
+    },
+    {
+      "userId": 60,
+      "name": "Author Name 3",
+      "nickName": "Nickname 3",
+      "profileImage": "https://i.pravatar.cc/300"
+    },
+    {
+      "userId": 61,
+      "name": "Author Name 4",
+      "nickName": "Nickname 4",
+      "profileImage": null
+    },
+    {
+      "userId": 37,
+      "name": "Author Name 5",
+      "nickName": "Nickname 5",
+      "profileImage": null
+    },
+    {
+      "userId": 16,
+      "name": "Author Name 6",
+      "nickName": "Nickname 6",
+      "profileImage": "https://i.pravatar.cc/300"
+    },
+    {
+      "userId": 47,
+      "name": "Author Name 7",
+      "nickName": "Nickname 7",
+      "profileImage": "https://i.pravatar.cc/300"
+    },
+    {
+      "userId": 63,
+      "name": "Author Name 8",
+      "nickName": "Nickname 8",
+      "profileImage": "https://i.pravatar.cc/300"
+    },
+    {
+      "userId": 32,
+      "name": "Author Name 9",
+      "nickName": "Nickname 9",
+      "profileImage": "https://i.pravatar.cc/300"
+    },
+    {
+      "userId": 70,
+      "name": "Author Name 10",
+      "nickName": "Nickname 10",
+      "profileImage": "https://i.pravatar.cc/300"
+    },
+    {
+      "userId": 71,
+      "name": "Author Name 11",
+      "nickName": "Nickname 11",
+      "profileImage": "https://i.pravatar.cc/300"
+    },
+    {
+      "userId": 14,
+      "name": "Author Name 12",
+      "nickName": "Nickname 12",
+      "profileImage": "https://i.pravatar.cc/300"
+    },
+    {
+      "userId": 25,
+      "name": "Author Name 13",
+      "nickName": "Nickname 13",
+      "profileImage": "https://i.pravatar.cc/300"
+    },
+    {
+      "userId": 72,
+      "name": "Author Name 14",
+      "nickName": "Nickname 14",
+      "profileImage": "https://i.pravatar.cc/300"
+    },
+    {
+      "userId": 94,
+      "name": "Author Name 15",
+      "nickName": "Nickname 15",
+      "profileImage": "https://i.pravatar.cc/300"
+    },
+    {
+      "userId": 30,
+      "name": "Author Name 16",
+      "nickName": "Nickname 16",
+      "profileImage": null
+    },
+    {
+      "userId": 95,
+      "name": "Author Name 17",
+      "nickName": "Nickname 17",
+      "profileImage": null
+    },
+    {
+      "userId": 73,
+      "name": "Author Name 18",
+      "nickName": "Nickname 18",
+      "profileImage": null
+    },
+    {
+      "userId": 84,
+      "name": "Author Name 19",
+      "nickName": "Nickname 19",
+      "profileImage": null
+    },
+    {
+      "userId": 38,
+      "name": "Author Name 20",
+      "nickName": "Nickname 20",
+      "profileImage": null
+    },
+    {
+      "userId": 74,
+      "name": "Author Name 21",
+      "nickName": "Nickname 21",
+      "profileImage": null
+    },
+    {
+      "userId": 26,
+      "name": "Author Name 22",
+      "nickName": "Nickname 22",
+      "profileImage": null
+    },
+    {
+      "userId": 17,
+      "name": "Author Name 23",
+      "nickName": "Nickname 23",
+      "profileImage": null
+    },
+    {
+      "userId": 10,
+      "name": "Author Name 24",
+      "nickName": "Nickname 24",
+      "profileImage": null
+    },
+    {
+      "userId": 20,
+      "name": "Author Name 25",
+      "nickName": "Nickname 25",
+      "profileImage": null
+    },
+    {
+      "userId": 18,
+      "name": "Author Name 26",
+      "nickName": "Nickname 26",
+      "profileImage": null
+    },
+    {
+      "userId": 22,
+      "name": "Author Name 27",
+      "nickName": "Nickname 27",
+      "profileImage": "https://i.pravatar.cc/300"
+    },
+    {
+      "userId": 59,
+      "name": "Author Name 28",
+      "nickName": "Nickname 28",
+      "profileImage": null
+    },
+    {
+      "userId": 82,
+      "name": "Author Name 29",
+      "nickName": "Nickname 29",
+      "profileImage": null
+    }
+  ],
+  "gameList" : [
+    {
+      "gameId": 1,
+      "gameType": 0,
+      "gameStatus": 2,
+      "gameStartDate": "2024.06.08 17:30:00",
+      "name": "7번 코드 1번 게임",
+      "courtNumber": 7,
+      "judge": true,
+      "teamA": {
+        "name": "팀 A",
+        "player": [
+          {
+            "userId": 69,
+            "name": "쓰르라미 울적에 케이이치 레나 리카 미온 사토코",
+            "nickName": "Nickname 0",
+            "profileImage": null
+          },
+          {
+            "userId": 48,
+            "name": "Author Name 1",
+            "nickName": "Nickname 1",
+            "profileImage": "https://i.pravatar.cc/300"
+          }
+        ],
+        "score": 21
+      },
+      "teamB": {
+        "name": "팀 B",
+        "player": [
+          {
+            "userId": 98,
+            "name": "Author Name 2",
+            "nickName": "Nickname 2",
+            "profileImage": "https://i.pravatar.cc/300"
+          },
+          {
+            "userId": 60,
+            "name": "Author Name 3",
+            "nickName": "Nickname 3",
+            "profileImage": "https://i.pravatar.cc/300"
+          }
+        ],
+        "score": 25
+      }
+    },
+    {
+      "gameId": 2,
+      "gameType": 1,
+      "gameStatus": 1,
+      "gameStartDate": "2024.06.09 14:00:00",
+      "name": "다음 게임",
+      "courtNumber": 8,
+      "judge": false,
+      "teamA": {
+        "name": "팀 A",
+        "player": [
+          {
+            "userId": 61,
+            "name": "Author Name 4",
+            "nickName": "Nickname 4",
+            "profileImage": null
+          },
+          {
+            "userId": 37,
+            "name": "Author Name 5",
+            "nickName": "Nickname 5",
+            "profileImage": null
+          }
+        ],
+        "score": null
+      },
+      "teamB": {
+        "name": "팀 B",
+        "player": [
+          {
+            "userId": 16,
+            "name": "Author Name 6",
+            "nickName": "Nickname 6",
+            "profileImage": "https://i.pravatar.cc/300"
+          },
+          {
+            "userId": 47,
+            "name": "Author Name 7",
+            "nickName": "Nickname 7",
+            "profileImage": "https://i.pravatar.cc/300"
+          }
+        ],
+        "score": null
+      }
+    },
+    {
+      "gameId": 3,
+      "gameType": 0,
+      "gameStatus": 0,
+      "gameStartDate": "2024.06.10 10:00:00",
+      "name": "대기 중",
+      "courtNumber": 9,
+      "judge": true,
+      "teamA": {
+        "name": "팀 A",
+        "player": [
+          {
+            "userId": 63,
+            "name": "Author Name 8",
+            "nickName": "Nickname 8",
+            "profileImage": "https://i.pravatar.cc/300"
+          },
+          {
+            "userId": 32,
+            "name": "Author Name 9",
+            "nickName": "Nickname 9",
+            "profileImage": "https://i.pravatar.cc/300"
+          }
+        ],
+        "score": 15
+      },
+      "teamB": {
+        "name": "팀 B",
+        "player": [
+          {
+            "userId": 16,
+            "name": "Author Name 10",
+            "nickName": "Nickname 10",
+            "profileImage": "https://i.pravatar.cc/300"
+          },
+          {
+            "userId": 32,
+            "name": "Author Name 11",
+            "nickName": "Nickname 11",
+            "profileImage": "https://i.pravatar.cc/300"
+          }
+        ],
+        "score": 20
+      }
+    },
+    {
+      "gameId": 4,
+      "gameType": 1,
+      "gameStatus": 3,
+      "gameStartDate": "2024.06.11 12:00:00",
+      "name": "완료된 게임",
+      "courtNumber": 10,
+      "judge": false,
+      "teamA": {
+        "name": "팀 A",
+        "player": [
+          {
+            "userId": 14,
+            "name": "Author Name 12",
+            "nickName": "Nickname 12",
+            "profileImage": "https://i.pravatar.cc/300"
+          },
+          {
+            "userId": 25,
+            "name": "Author Name 13",
+            "nickName": "Nickname 13",
+            "profileImage": "https://i.pravatar.cc/300"
+          }
+        ],
+        "score": null
+      },
+      "teamB": {
+        "name": "팀 B",
+        "player": [
+          {
+            "userId": 25,
+            "name": "Author Name 14",
+            "nickName": "Nickname 14",
+            "profileImage": "https://i.pravatar.cc/300"
+          },
+          {
+            "userId": 94,
+            "name": "Author Name 15",
+            "nickName": "Nickname 15",
+            "profileImage": "https://i.pravatar.cc/300"
+          }
+        ],
+        "score": null
+      }
+    },
+    {
+      "gameId": 5,
+      "gameType": 0,
+      "gameStatus": 2,
+      "gameStartDate": "2024.06.12 15:00:00",
+      "name": "7번 코드 5번 게임",
+      "courtNumber": 11,
+      "judge": true,
+      "teamA": {
+        "name": "팀 A",
+        "player": [
+          {
+            "userId": 30,
+            "name": "Author Name 16",
+            "nickName": "Nickname 16",
+            "profileImage": null
+          },
+          {
+            "userId": 95,
+            "name": "Author Name 17",
+            "nickName": "Nickname 17",
+            "profileImage": null
+          }
+        ],
+        "score": 23
+      },
+      "teamB": {
+        "name": "팀 B",
+        "player": [
+          {
+            "userId": 98,
+            "name": "Author Name 18",
+            "nickName": "Nickname 18",
+            "profileImage": null
+          },
+          {
+            "userId": 84,
+            "name": "Author Name 19",
+            "nickName": "Nickname 19",
+            "profileImage": null
+          }
+        ],
+        "score": 28
+      }
+    },
+    {
+      "gameId": 6,
+      "gameType": 1,
+      "gameStatus": 1,
+      "gameStartDate": "2024.06.13 11:00:00",
+      "name": "다음 게임",
+      "courtNumber": 12,
+      "judge": false,
+      "teamA": {
+        "name": "팀 A",
+        "player": [
+          {
+            "userId": 38,
+            "name": "Author Name 20",
+            "nickName": "Nickname 20",
+            "profileImage": null
+          },
+          {
+            "userId": 47,
+            "name": "Author Name 21",
+            "nickName": "Nickname 21",
+            "profileImage": null
+          }
+        ],
+        "score": null
+      },
+      "teamB": {
+        "name": "팀 B",
+        "player": [
+          {
+            "userId": 26,
+            "name": "Author Name 22",
+            "nickName": "Nickname 22",
+            "profileImage": null
+          },
+          {
+            "userId": 17,
+            "name": "Author Name 23",
+            "nickName": "Nickname 23",
+            "profileImage": null
+          }
+        ],
+        "score": null
+      }
+    },
+    {
+      "gameId": 7,
+      "gameType": 0,
+      "gameStatus": 0,
+      "gameStartDate": "2024.06.14 13:00:00",
+      "name": "대기 중",
+      "courtNumber": 13,
+      "judge": true,
+      "teamA": {
+        "name": "팀 A",
+        "player": [
+          {
+            "userId": 10,
+            "name": "Author Name 24",
+            "nickName": "Nickname 24",
+            "profileImage": null
+          },
+          {
+            "userId": 20,
+            "name": "Author Name 25",
+            "nickName": "Nickname 25",
+            "profileImage": null
+          }
+        ],
+        "score": 18
+      },
+      "teamB": {
+        "name": "팀 B",
+        "player": [
+          {
+            "userId": 18,
+            "name": "Author Name 26",
+            "nickName": "Nickname 26",
+            "profileImage": null
+          },
+          {
+            "userId": 22,
+            "name": "Author Name 27",
+            "nickName": "Nickname 27",
+            "profileImage": "https://i.pravatar.cc/300"
+          }
+        ],
+        "score": 20
+      }
+    },
+    {
+      "gameId": 8,
+      "gameType": 1,
+      "gameStatus": 3,
+      "gameStartDate": "2024.06.15 16:00:00",
+      "name": "완료된 게임",
+      "courtNumber": 14,
+      "judge": true,
+      "teamA": {
+        "name": "팀 A",
+        "player": [
+          {
+            "userId": 59,
+            "name": "Author Name 28",
+            "nickName": "Nickname 28",
+            "profileImage": null
+          },
+          {
+            "userId": 82,
+            "name": "Author Name 29",
+            "nickName": "Nickname 29",
+            "profileImage": null
+          }
+        ],
+        "score": null
+      },
+      "teamB": {
+        "name": "팀 B",
+        "player": [
+          {
+            "userId": 14,
+            "name": "Author Name 12",
+            "nickName": "Nickname 12",
+            "profileImage": "https://i.pravatar.cc/300"
+          },
+          {
+            "userId": 25,
+            "name": "Author Name 13",
+            "nickName": "Nickname 13",
+            "profileImage": "https://i.pravatar.cc/300"
+          }
+        ],
+        "score": null
+      }
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "permission": 0,
+      "content": "첫 번째 댓글입니다.",
+      "likes": 10,
+      "createDate": "2024.06.01 00:00:00",
+      "editDate": "2024.06.02 00:00:00",
+      "reply": null,
+      "userProfile": {
+        "userId": 69,
+        "name": "쓰르라미 울적에 케이이치 레나 리카 미온 사토코",
+        "nickName": "Nickname 0",
+        "profileImage": null
+      }
+    },
+    {
+      "id": 2,
+      "permission": 1,
+      "content": "첫 번째 댓글에 대한 답글입니다.",
+      "likes": 5,
+      "createDate": "2024.06.01 01:00:00",
+      "editDate": "2024.06.03 01:00:00",
+      "reply": 1,
+      "userProfile": {
+        "userId": 98,
+        "name": "Author Name 2",
+        "nickName": "Nickname 2",
+        "profileImage": "https://i.pravatar.cc/300"
+      }
+    },
+    {
+      "id": 3,
+      "permission": 0,
+      "content": "세 번째 댓글입니다.",
+      "likes": 15,
+      "createDate": "2024.06.01 02:00:00",
+      "editDate": "2024.06.04 02:00:00",
+      "reply": null,
+      "userProfile": {
+        "userId": 69,
+        "name": "쓰르라미 울적에 케이이치 레나 리카 미온 사토코",
+        "nickName": "Nickname 0",
+        "profileImage": null
+      }
+    },
+    {
+      "id": 4,
+      "permission": 1,
+      "content": "세 번째 댓글에 대한 답글입니다.",
+      "likes": 20,
+      "createDate": "2024.06.01 03:00:00",
+      "editDate": "2024.06.05 03:00:00",
+      "reply": 3,
+      "userProfile": {
+        "userId": 61,
+        "name": "Author Name 4",
+        "nickName": "Nickname 4",
+        "profileImage": null
+      }
+    },
+    {
+      "id": 5,
+      "permission": 0,
+      "content": "다섯 번째 댓글입니다.",
+      "likes": 25,
+      "createDate": "2024.06.01 04:00:00",
+      "editDate": "2024.06.06 04:00:00",
+      "reply": null,
+      "userProfile": {
+        "userId": 69,
+        "name": "쓰르라미 울적에 케이이치 레나 리카 미온 사토코",
+        "nickName": "Nickname 0",
+        "profileImage": null
+      }
+    },
+    {
+      "id": 6,
+      "permission": 1,
+      "content": "다섯 번째 댓글에 대한 답글입니다.",
+      "likes": 30,
+      "createDate": "2024.06.01 05:00:00",
+      "editDate": "2024.06.07 05:00:00",
+      "reply": 5,
+      "userProfile": {
+        "userId": 16,
+        "name": "Author Name 6",
+        "nickName": "Nickname 6",
+        "profileImage": "https://i.pravatar.cc/300"
+      }
+    },
+    {
+      "id": 7,
+      "permission": 0,
+      "content": "일곱 번째 댓글입니다.",
+      "likes": 35,
+      "createDate": "2024.06.01 06:00:00",
+      "editDate": "2024.06.08 06:00:00",
+      "reply": null,
+      "userProfile": {
+        "userId": 69,
+        "name": "쓰르라미 울적에 케이이치 레나 리카 미온 사토코",
+        "nickName": "Nickname 0",
+        "profileImage": null
+      }
+    },
+    {
+      "id": 8,
+      "permission": 1,
+      "content": "일곱 번째 댓글에 대한 답글입니다.",
+      "likes": 40,
+      "createDate": "2024.06.01 07:00:00",
+      "editDate": "2024.06.09 07:00:00",
+      "reply": 7,
+      "userProfile": {
+        "userId": 63,
+        "name": "Author Name 8",
+        "nickName": "Nickname 8",
+        "profileImage": "https://i.pravatar.cc/300"
+      }
+    },
+    {
+      "id": 9,
+      "permission": 0,
+      "content": "아홉 번째 댓글입니다.",
+      "likes": 45,
+      "createDate": "2024.06.01 08:00:00",
+      "editDate": "2024.06.10 08:00:00",
+      "reply": null,
+      "userProfile": {
+        "userId": 69,
+        "name": "쓰르라미 울적에 케이이치 레나 리카 미온 사토코",
+        "nickName": "Nickname 0",
+        "profileImage": null
+      }
+    },
+    {
+      "id": 10,
+      "permission": 1,
+      "content": "아홉 번째 댓글에 대한 답글입니다.",
+      "likes": 50,
+      "createDate": "2024.06.01 09:00:00",
+      "editDate": "2024.06.11 09:00:00",
+      "reply": 9,
+      "userProfile": {
+        "userId": 16,
+        "name": "Author Name 10",
+        "nickName": "Nickname 10",
+        "profileImage": "https://i.pravatar.cc/300"
+      }
+    },
+    {
+      "id": 11,
+      "permission": 0,
+      "content": "열한 번째 댓글입니다.",
+      "likes": 55,
+      "createDate": "2024.06.01 10:00:00",
+      "editDate": "2024.06.12 10:00:00",
+      "reply": 9,
+      "userProfile": {
+        "userId": 69,
+        "name": "쓰르라미 울적에 케이이치 레나 리카 미온 사토코",
+        "nickName": "Nickname 0",
+        "profileImage": null
+      }
+    },
+    {
+      "id": 12,
+      "permission": 1,
+      "content": "열한 번째 댓글에 대한 답글입니다.",
+      "likes": 60,
+      "createDate": "2024.06.01 11:00:00",
+      "editDate": "2024.06.13 11:00:00",
+      "reply": 9,
+      "userProfile": {
+        "userId": 14,
+        "name": "Author Name 12",
+        "nickName": "Nickname 12",
+        "profileImage": "https://i.pravatar.cc/300"
+      }
+    },
+    {
+      "id": 13,
+      "permission": 0,
+      "content": "열세 번째 댓글입니다.",
+      "likes": 65,
+      "createDate": "2024.06.01 12:00:00",
+      "editDate": "2024.06.14 12:00:00",
+      "reply": null,
+      "userProfile": {
+        "userId": 69,
+        "name": "쓰르라미 울적에 케이이치 레나 리카 미온 사토코",
+        "nickName": "Nickname 0",
+        "profileImage": null
+      }
+    },
+    {
+      "id": 14,
+      "permission": 1,
+      "content": "열세 번째 댓글에 대한 답글입니다.",
+      "likes": 70,
+      "createDate": "2024.06.01 13:00:00",
+      "editDate": "2024.06.15 13:00:00",
+      "reply": 13,
+      "userProfile": {
+        "userId": 25,
+        "name": "Author Name 14",
+        "nickName": "Nickname 14",
+        "profileImage": "https://i.pravatar.cc/300"
+      }
+    },
+    {
+      "id": 15,
+      "permission": 0,
+      "content": "열다섯 번째 댓글입니다.",
+      "likes": 75,
+      "createDate": "2024.06.01 14:00:00",
+      "editDate": "2024.06.16 14:00:00",
+      "reply": null,
+      "userProfile": {
+        "userId": 69,
+        "name": "쓰르라미 울적에 케이이치 레나 리카 미온 사토코",
+        "nickName": "Nickname 0",
+        "profileImage": null
+      }
+    },
+    {
+      "id": 16,
+      "permission": 1,
+      "content": "열다섯 번째 댓글에 대한 답글입니다.",
+      "likes": 80,
+      "createDate": "2024.06.01 15:00:00",
+      "editDate": "2024.06.17 15:00:00",
+      "reply": 15,
+      "userProfile": {
+        "userId": 30,
+        "name": "Author Name 16",
+        "nickName": "Nickname 16",
+        "profileImage": null
+      }
+    },
+    {
+      "id": 17,
+      "permission": 0,
+      "content": "열일곱 번째 댓글입니다.",
+      "likes": 85,
+      "createDate": "2024.06.01 16:00:00",
+      "editDate": "2024.06.18 16:00:00",
+      "reply": null,
+      "userProfile": {
+        "userId": 69,
+        "name": "쓰르라미 울적에 케이이치 레나 리카 미온 사토코",
+        "nickName": "Nickname 0",
+        "profileImage": null
+      }
+    },
+    {
+      "id": 18,
+      "permission": 1,
+      "content": "열일곱 번째 댓글에 대한 답글입니다.",
+      "likes": 90,
+      "createDate": "2024.06.01 17:00:00",
+      "editDate": "2024.06.19 17:00:00",
+      "reply": 17,
+      "userProfile": {
+        "userId": 98,
+        "name": "Author Name 18",
+        "nickName": "Nickname 18",
+        "profileImage": null
+      }
+    },
+    {
+      "id": 19,
+      "permission": 0,
+      "content": "열아홉 번째 댓글입니다.",
+      "likes": 95,
+      "createDate": "2024.06.01 18:00:00",
+      "editDate": "2024.06.20 18:00:00",
+      "reply": null,
+      "userProfile": {
+        "userId": 69,
+        "name": "쓰르라미 울적에 케이이치 레나 리카 미온 사토코",
+        "nickName": "Nickname 0",
+        "profileImage": null
+      }
+    },
+    {
+      "id": 20,
+      "permission": 1,
+      "content": "열아홉 번째 댓글에 대한 답글입니다.",
+      "likes": 100,
+      "createDate": "2024.06.01 19:00:00",
+      "editDate": "2024.06.21 19:00:00",
+      "reply": 19,
+      "userProfile": {
+        "userId": 38,
+        "name": "Author Name 20",
+        "nickName": "Nickname 20",
+        "profileImage": null
+      }
+    }
+  ],
+  "communityCategoryList" : [
+    {
+      "id": 0,
+      "status": "100",
+      "name": "일상",
+      "isSubscribed": true
+    },
+    {
+      "id": 1,
+      "status": "101",
+      "name": "운동모집",
+      "isSubscribed": false
+    },
+    {
+      "id": 2,
+      "status": "102",
+      "name": "모임 홍보",
+      "isSubscribed": true
+    },
+    {
+      "id": 3,
+      "status": "103",
+      "name": "파트너 모집",
+      "isSubscribed": false
+    },
+    {
+      "id": 4,
+      "status": "104",
+      "name": "대회 공지",
+      "isSubscribed": true
+    }
+  ],
+  "chattingRoomList" : [
+    {
+      "id": 1,
+      "chatRoomType": 0,
+      "name": "첫 번째 채팅방",
+      "lastMessage": "첫 번째 채팅 메시지",
+      "updateDate": "2024.06.23 12:00:00",
+      "unreadCount": 3,
+      "members": [
+        { "userId": 1, "name": "사용자1", "nickName": "닉네임1", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 2, "name": "사용자2", "nickName": "닉네임2", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 3, "name": "사용자3", "nickName": "닉네임3", "profileImage": "https://i.pravatar.cc/300" }
+      ],
+      "thumbnail": "",
+      "memberCount": 3
+    },
+    {
+      "id": 2,
+      "chatRoomType": 1,
+      "name": "",
+      "lastMessage": "두 번째 채팅 메시지",
+      "updateDate": "2024.06.23 13:00:00",
+      "unreadCount": 5,
+      "members": [
+        { "userId": 4, "name": "사용자4", "nickName": "닉네임4", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 5, "name": "사용자5", "nickName": "닉네임5", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 6, "name": "사용자6", "nickName": "닉네임6", "profileImage": "https://i.pravatar.cc/300" }
+      ],
+      "thumbnail": "https://cataas.com/cat",
+      "memberCount": 3
+    },
+    {
+      "id": 3,
+      "chatRoomType": 2,
+      "name": "세 번째 채팅방",
+      "lastMessage": "세 번째 채팅 메시지",
+      "updateDate": "2024.06.23 14:00:00",
+      "unreadCount": 1,
+      "members": [
+        { "userId": 7, "name": "사용자7", "nickName": "닉네임7", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 8, "name": "사용자8", "nickName": "닉네임8", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 9, "name": "사용자9", "nickName": "닉네임9", "profileImage": "https://i.pravatar.cc/300" }
+      ],
+      "thumbnail": "",
+      "memberCount": 3
+    },
+    {
+      "id": 4,
+      "chatRoomType": 0,
+      "name": "",
+      "lastMessage": "네 번째 채팅 메시지",
+      "updateDate": "2024.06.23 15:00:00",
+      "unreadCount": 7,
+      "members": [
+        { "userId": 10, "name": "사용자10", "nickName": "닉네임10", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 11, "name": "사용자11", "nickName": "닉네임11", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 12, "name": "사용자12", "nickName": "닉네임12", "profileImage": "https://i.pravatar.cc/300" }
+      ],
+      "thumbnail": "https://cataas.com/cat",
+      "memberCount": 3
+    },
+    {
+      "id": 5,
+      "chatRoomType": 1,
+      "name": "다섯 번째 채팅방",
+      "lastMessage": "다섯 번째 채팅 메시지",
+      "updateDate": "2024.06.23 16:00:00",
+      "unreadCount": 0,
+      "members": [
+        { "userId": 13, "name": "사용자13", "nickName": "닉네임13", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 14, "name": "사용자14", "nickName": "닉네임14", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 15, "name": "사용자15", "nickName": "닉네임15", "profileImage": "https://i.pravatar.cc/300" }
+      ],
+      "thumbnail": "",
+      "memberCount": 3
+    },
+    {
+      "id": 6,
+      "chatRoomType": 2,
+      "name": "",
+      "lastMessage": "여섯 번째 채팅 메시지",
+      "updateDate": "2024.06.23 17:00:00",
+      "unreadCount": 4,
+      "members": [
+        { "userId": 16, "name": "사용자16", "nickName": "닉네임16", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 17, "name": "사용자17", "nickName": "닉네임17", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 18, "name": "사용자18", "nickName": "닉네임18", "profileImage": "https://i.pravatar.cc/300" }
+      ],
+      "thumbnail": "https://cataas.com/cat",
+      "memberCount": 3
+    },
+    {
+      "id": 7,
+      "chatRoomType": 0,
+      "name": "일곱 번째 채팅방",
+      "lastMessage": "일곱 번째 채팅 메시지",
+      "updateDate": "2024.06.23 18:00:00",
+      "unreadCount": 2,
+      "members": [
+        { "userId": 19, "name": "사용자19", "nickName": "닉네임19", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 20, "name": "사용자20", "nickName": "닉네임20", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 21, "name": "사용자21", "nickName": "닉네임21", "profileImage": "https://i.pravatar.cc/300" }
+      ],
+      "thumbnail": "",
+      "memberCount": 3
+    },
+    {
+      "id": 8,
+      "chatRoomType": 1,
+      "name": "",
+      "lastMessage": "여덟 번째 채팅 메시지",
+      "updateDate": "2024.06.23 19:00:00",
+      "unreadCount": 9,
+      "members": [
+        { "userId": 22, "name": "사용자22", "nickName": "닉네임22", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 23, "name": "사용자23", "nickName": "닉네임23", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 24, "name": "사용자24", "nickName": "닉네임24", "profileImage": "https://i.pravatar.cc/300" }
+      ],
+      "thumbnail": "https://cataas.com/cat",
+      "memberCount": 3
+    },
+    {
+      "id": 9,
+      "chatRoomType": 2,
+      "name": "아홉 번째 채팅방",
+      "lastMessage": "아홉 번째 채팅 메시지",
+      "updateDate": "2024.06.23 20:00:00",
+      "unreadCount": 6,
+      "members": [
+        { "userId": 25, "name": "사용자25", "nickName": "닉네임25", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 26, "name": "사용자26", "nickName": "닉네임26", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 27, "name": "사용자27", "nickName": "닉네임27", "profileImage": "https://i.pravatar.cc/300" }
+      ],
+      "thumbnail": "",
+      "memberCount": 3
+    },
+    {
+      "id": 10,
+      "chatRoomType": 0,
+      "name": "",
+      "lastMessage": "열 번째 채팅 메시지",
+      "updateDate": "2024.06.23 21:00:00",
+      "unreadCount": 8,
+      "members": [
+        { "userId": 28, "name": "사용자28", "nickName": "닉네임28", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 29, "name": "사용자29", "nickName": "닉네임29", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 30, "name": "사용자30", "nickName": "닉네임30", "profileImage": "https://i.pravatar.cc/300" }
+      ],
+      "thumbnail": "https://cataas.com/cat",
+      "memberCount": 3
+    },
+    {
+      "id": 11,
+      "chatRoomType": 1,
+      "name": "열한 번째 채팅방",
+      "lastMessage": "열한 번째 채팅 메시지",
+      "updateDate": "2024.06.23 22:00:00",
+      "unreadCount": 4,
+      "members": [
+        { "userId": 31, "name": "사용자31", "nickName": "닉네임31", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 32, "name": "사용자32", "nickName": "닉네임32", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 33, "name": "사용자33", "nickName": "닉네임33", "profileImage": "https://i.pravatar.cc/300" }
+      ],
+      "thumbnail": "",
+      "memberCount": 3
+    },
+    {
+      "id": 12,
+      "chatRoomType": 2,
+      "name": "",
+      "lastMessage": "열두 번째 채팅 메시지",
+      "updateDate": "2024.06.23 23:00:00",
+      "unreadCount": 5,
+      "members": [
+        { "userId": 34, "name": "사용자34", "nickName": "닉네임34", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 35, "name": "사용자35", "nickName": "닉네임35", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 36, "name": "사용자36", "nickName": "닉네임36", "profileImage": "https://i.pravatar.cc/300" }
+      ],
+      "thumbnail": "https://cataas.com/cat",
+      "memberCount": 3
+    },
+    {
+      "id": 13,
+      "chatRoomType": 0,
+      "name": "열세 번째 채팅방",
+      "lastMessage": "열세 번째 채팅 메시지",
+      "updateDate": "2024.06.24 00:00:00",
+      "unreadCount": 7,
+      "members": [
+        { "userId": 37, "name": "사용자37", "nickName": "닉네임37", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 38, "name": "사용자38", "nickName": "닉네임38", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 39, "name": "사용자39", "nickName": "닉네임39", "profileImage": "https://i.pravatar.cc/300" }
+      ],
+      "thumbnail": "",
+      "memberCount": 3
+    },
+    {
+      "id": 14,
+      "chatRoomType": 1,
+      "name": "",
+      "lastMessage": "열네 번째 채팅 메시지",
+      "updateDate": "2024.06.24 01:00:00",
+      "unreadCount": 2,
+      "members": [
+        { "userId": 40, "name": "사용자40", "nickName": "닉네임40", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 41, "name": "사용자41", "nickName": "닉네임41", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 42, "name": "사용자42", "nickName": "닉네임42", "profileImage": "https://i.pravatar.cc/300" }
+      ],
+      "thumbnail": "https://cataas.com/cat",
+      "memberCount": 3
+    },
+    {
+      "id": 15,
+      "chatRoomType": 2,
+      "name": "열다섯 번째 채팅방",
+      "lastMessage": "열다섯 번째 채팅 메시지",
+      "updateDate": "2024.06.24 02:00:00",
+      "unreadCount": 0,
+      "members": [
+        { "userId": 43, "name": "사용자43", "nickName": "닉네임43", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 44, "name": "사용자44", "nickName": "닉네임44", "profileImage": "https://i.pravatar.cc/300" },
+        { "userId": 45, "name": "사용자45", "nickName": "닉네임45", "profileImage": "https://i.pravatar.cc/300" }
+      ],
+      "thumbnail": "",
+      "memberCount": 3
+    }
+  ],
+  "myProfile": {
+    "name": "typicode",
+    "region" : "서울시 노원구",
+    "introduction" : "아이스베어는 거꾸로 하면 어베스이아",
+    "profileImage" : "https://cataas.com/cat"
+  }
+}

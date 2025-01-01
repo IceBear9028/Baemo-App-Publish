@@ -1,0 +1,15 @@
+<svg width="50" height="51" viewBox="0 0 50 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="btn_naver">
+<g clip-path="url(#clip0_63_3936)">
+<g id="Vector">
+<path d="M50 25.5C50 39.3071 38.8071 50.5 25 50.5C11.1929 50.5 0 39.3071 0 25.5C0 11.6929 11.1929 0.5 25 0.5C38.8071 0.5 50 11.6929 50 25.5Z" fill="#03C75A"/>
+<path d="M28.5065 26.1494L21.1039 15.6298H15V35.3702H21.4935V24.8506L28.8961 35.3702H35V15.6298H28.5065V26.1494Z" fill="white"/>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_63_3936">
+<rect y="0.5" width="50" height="50" rx="25" fill="white"/>
+</clipPath>
+</defs>
+</svg>
