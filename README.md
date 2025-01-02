@@ -2,7 +2,8 @@
 ![readme_mockup2](https://raw.githubusercontent.com/HeadOff-TIL/headoffti-content/baemo/baemo-introduce.png)
 > **BAEMO(배드민턴의 모든것)** 는 배드민턴을 좋아하는 사람들끼리 모여 오프라인 운동, 모임을 주선하고, 배드민턴과 관련된 정보들을 공유하는 커뮤니티 서비스 입니다.
 
----
+[<img src="https://img.shields.io/badge/App Store-000000?style=flat&logo=Apple&logoColor=white"/>](https://apps.apple.com/kr/app/%EB%B0%B0%EB%AA%A8-%EB%B0%B0%EB%93%9C%EB%AF%BC%ED%84%B4%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/id6664070567)
+[<img src="https://img.shields.io/badge/Google Play-000000?style=flat&logo=GooglePlay&logoColor=white"/>](https://play.google.com/store/search?q=%EB%B0%B0%EB%AA%A8&c=apps)
 
 ## 목차
 
@@ -13,7 +14,6 @@
    - [debugmode 실행 방법](#debugmode-실행-방법)
    - [APK 파일 추출 방법(Android)](#apk-파일-추출-방법-android-only)
 
----
 
 ## 프로젝트 소개
 
@@ -24,7 +24,6 @@
 - 배드민턴 기술과 전략 관련 게시글 작성 및 댓글 토론
 - 장비 리뷰 및 추천 정보 제공
 
----
 
 ## 주요 기능
 
@@ -34,7 +33,6 @@
 - **커뮤니티 게시판**: 다양한 배드민턴 관련 주제를 논의할 수 있는 게시판.
 - **알림 서비스**: 모임 일정, 게시판 활동 등의 실시간 알림 제공.
 
----
 
 ## 기술 스택
 - 프레임워크 : `React-Native`  
@@ -42,7 +40,6 @@
 - Style : `Styled-Component`
 
 
----
 ## 실행방법
 
 ### DebugMode 실행 방법
